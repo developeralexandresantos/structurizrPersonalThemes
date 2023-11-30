@@ -1758,7 +1758,7 @@
         "tag": "Microsoft Azure - SQL Database",
         "stroke": "#50e6ff",
         "color": "#50e6ff",
-        "background": "#562083",
+        "background": "#562083 !important",
         "icon": "10130-icon-service-SQL-Database.png"
       },
       {
